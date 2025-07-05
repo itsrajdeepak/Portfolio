@@ -205,8 +205,8 @@ export const projects = [
       "material UI",
     ],
     category: "web app",
-    github: "https://github.com/itsrajdeepak/MyPortfolio",
-    webapp: "https://my-portfolio-seven-taupe-66.vercel.app/",
+    github: "https://github.com/itsrajdeepak/Portfolio",
+    webapp: "https://portfolio-weld-three-47.vercel.app/",
   }, 
 ];
 

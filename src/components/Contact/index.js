@@ -157,7 +157,7 @@ const Contact = () => {
           onClose={() => setOpen(false)}
           anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
         >
-          <Alert onClose={() => setOpen(false)} severity="success" sx={{ width: '100%' }}>
+          <Alert onClose={() => setOpen(false)} severity="success" sx={{ width: '100%' } }>
             Email sent successfully!
           </Alert>
         </Snackbar>
